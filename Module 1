@@ -1,10 +1,15 @@
 Therapeutic Drug Monitoring (TDM) - Monitoring levels of drug in patients individually due to low TI or due to absence of biomarkers to track
-Volume of distribution, Elimination half life
-First order elimination rate constant = 0.692/t1/2
+Important terms - Volume of distribution, Elimination half life
 
-Distribution volume and weight determine Volume of distribution -> determines elimination rate based on half-life -> From infusion rate and elimination rate, determine steady state concentration 
+First order elimination rate constant, k = 0.692/(t1/2)
 
-Some drugs take a long time to reach steady state levels, those need a loading dose. 
+Distribution volume and weight determine Volume of distribution -> determines elimination rate based on half-life (CL = Vd* 0.693/t(1/2))
+-> From infusion rate and elimination rate, determine steady state concentration (Css)
+
+Some drugs take a long time to reach steady state levels, those need a loading dose.
+
 Creatinine clearance = Urine volume *  Urine concentration /Plasma concentration
-C (ss) = Rate of creatinine synthesis / C (cr), for drug infusion, C (ss) = Drug/thou/C (Cl)
+
+C (ss) = Rate of creatinine synthesis / C (cl), for drug infusion/intermittent dosing, C (ss) = Dose/Dosing interval/C(Cl)
+
 Steady state concentration does not depend on loading dose or volume of distribution, peak and trough levels are
