@@ -10,6 +10,9 @@ Some drugs take a long time to reach steady state levels, those need a loading d
 
 Creatinine clearance = Urine volume *  Urine concentration /Plasma concentration
 
-C (ss) = Rate of creatinine synthesis / C (cl), for drug infusion/intermittent dosing, C (ss) = Dose/Dosing interval/C(Cl)
+C (ss) = Rate of creatinine synthesis / C (cl), for drug infusion/intermittent dosing, C (ss) = %F*Dose/(Dosing interval*C(Cl))
 
 Steady state concentration does not depend on loading dose or volume of distribution, peak and trough levels are
+
+
+First vs zero order elimination - First order => percent of drug eliminated per unit time, zero order is amoutn of drug eliminated per unit time
