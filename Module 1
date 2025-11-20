@@ -16,3 +16,29 @@ Steady state concentration does not depend on loading dose or volume of distribu
 
 
 First vs zero order elimination - First order => percent of drug eliminated per unit time, zero order is amoutn of drug eliminated per unit time
+
+
+Biochemical mechanisms of drug toxicity:
+Normally drug -> non-toxic metabolites -> excreted
+When drug breaks into reactive metaboloties, it can lead to tox. Intrinsic tox is dose dependent, idosyncratic tox is not dose dependent. 
+
+Intrinsic tox - Acetaminophen breaks down to intermediate causing oxidative stress in a dose dependent manner. 
+Alcohol acts as a substrate for the p450 enzyme and causes more oxidative stress. 
+
+Idisyncratic - Example of trovofloxacin- tvx (antibiotic) causing liver injury in an inflammatory condition. 
+Assess TRV efects on ALT levels following LPS administration. 
+
+Ways to assess toxic metabolites (coupled to dose) 
+-GSH trapping by LC-MS/MS: 
+Treat with drug and trap with vehicle or something that will trap the intermediate -> assess by LC-MS/MS
+-TDI
+
+- Multifactorial approach (coupled to dose + ways to assess cellular effects) - 
+Hazard matrix showing covalent binding burden against in-vitro panel score -> measure hazard
+In vitro panel with HepG2, MRP2, BSEP etc. 
+
+In vitro methods: 
+3D hepatic culture -> assess ATP levels for viability, albumin secretion for function
+
+
+
